@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER":"kavyamongoose",
+        "MONGO_PASSWORD":"en6NueelsRiDJpns",
+        "MONGO_DEFAULT_DATABASE":"shop",
+        "STRIPE_KEY":"sk_test_51Q3BC7P7D3IWrhVNupTgpnd2mLvBloPqvvHC8MEOOSZafy6og4XEwg64fM6dCorWKVJqMydNKpqFwA0osXZNETw900h99DmSIU"
+    }
+}
